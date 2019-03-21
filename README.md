@@ -3,10 +3,7 @@
 ## Part A: Sketches
 
 ### 1. Scan/Photo of Sketches
-```
-Original
-```
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+![Sketsa 1](img/img1-resize.jpg)
 
 ### 2. Version Differences
 ```
