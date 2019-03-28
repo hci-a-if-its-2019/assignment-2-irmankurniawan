@@ -55,4 +55,6 @@ Age : 12-50 years
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+Sketch : https://projects.invisionapp.com/freehand/document/Iy1LIuqhu
+
+Prototype : https://invis.io/9SR8UQR2DYE
