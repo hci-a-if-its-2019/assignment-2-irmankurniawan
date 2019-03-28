@@ -31,8 +31,9 @@ Solution 2, because :
 
 ### 4. Design Rationale
 ```
-"What's good for developers, not always good for users"
-"Don't assume that the user has experience like yours"
+In assignment-1, i've contextual inquiry with the user.
+she has trouble to view the picture, especially the last pictures whose position is far below.
+she clicked the 'view' button several times but like no feedback.
 ```
 
 ## Part B: Assumptions
